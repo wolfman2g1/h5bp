@@ -1,3 +1,4 @@
+This is just a clone of the popular h5bp repo but specific to nginx
 Component-config files
 ----------------------
 
